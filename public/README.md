@@ -1,0 +1,1 @@
+Created with vanilla JS, CSS and HTML. Enjoy :)
